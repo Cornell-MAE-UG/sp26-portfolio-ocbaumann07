@@ -1,0 +1,105 @@
+---
+layout: project
+title: ENGRD 2020 Macadamia nut cracker
+description: Just a spaceship that I designed
+technologies: [SolidWorks, Machining]
+image: /assets/images/Screenshot 2026-03-24 232615.png
+---
+
+These notes outline the requirements, calculations, and preliminary design concepts for a macadamia nut cracking tool. The goal is to create a device that allows users—particularly those with lower grip strength—to crack macadamia nuts safely and effectively.
+
+Key Data and Requirements
+
+Macadamia nut cracking force: 222.1 kg (≈ 18.54 kN)
+
+Tool-generated cracking force target: 241 kg
+
+Macadamia nut size range: 12–24 mm
+
+Average grip strength of a 60–64-year-old woman: 17.2–31.0 kg
+
+Weak subject chosen for accessibility: ≈ 17.0 kg
+
+The tool must amplify a user-applied force of ~17 kg to reach the required cracking force.
+
+Force Amplification
+
+Objective
+
+Find a lever design that increases a 17 kg input force to the required ~241 kg output force.
+
+Calculation (as written in notes)
+
+241 / 17 ≈ 14.17
+
+A mechanical advantage of roughly 14–17× is needed.
+
+Nut Placement and Dimensions
+
+Nut diameter range: 12–24 mm
+
+The nut should sit 12 mm from the pin.
+
+Handle length and lever arm distances must be chosen to achieve the required mechanical advantage.
+
+Example dimension from notes
+
+Handle length: 170 mm from pin to handle center.
+
+Nut distance from pin: 12 mm.
+
+Mechanical advantage ≈ 170 / 12 ≈ 14.2 (matches required ratio).
+
+Handle Design
+
+Handle sketches indicate:
+
+24 mm width
+
+62 mm length in one sketch
+
+12 mm thickness in another
+
+Human hand clearance must be considered to avoid collision during operation.
+
+Minimum travel distance required to crack nut: 5–7 mm.
+
+Design Considerations
+
+The same construction can be used for different nut sizes.
+
+Angle of cracking may vary with nut size, but the general mechanism remains functional.
+
+A major concern: if the nut is too small, the handle may collide with the user’s hand before completing the required travel.
+
+Linear Actuator Option
+
+Model: PA‑01
+
+Voltage: 12 VDC or 24 VDC
+
+Stroke: 1–40 inches
+
+Force: 16–225 lbs
+
+Price: ~$115–120 USD
+
+This actuator could automate the cracking process.
+
+Required actuator travel
+
+Minimum travel: 5 mm
+
+Handle travel: 75 mm (≈ 3 inches)
+
+Additional Sketch Notes
+
+Several hand-drawn diagrams indicate lever arms, handle geometry, and nut placement.
+
+Dimensions such as 15 mm, 10 mm, and 24 mm appear in relation to handle and pin geometry.
+
+Summary
+
+These notes outline the early-stage design of a macadamia nut cracking tool using lever mechanics or a linear actuator. The key engineering requirement is achieving a mechanical advantage of approximately 14–17× so that a user with relatively low grip strength can still crack the nut. Dimensions and sketches suggest a compact lever-based device with careful attention to hand clearance and nut size variability.
+
+This page content was transcribed from paper notes to writing with the assistance of Copilot.
